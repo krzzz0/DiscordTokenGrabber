@@ -25,4 +25,4 @@ This script is for educational purposes. I am in no way responsible for any inco
 
 # Credits
 
-![image](https://user-images.githubusercontent.com/93293674/152028851-91359c29-6c71-4ae3-b37c-2dddb65f0c84.png)
+https://github.com/AstraaDev
